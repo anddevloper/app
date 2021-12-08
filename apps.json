@@ -1,0 +1,14 @@
+{
+	"apps" : [
+		{
+			"app_name" : "wasticker",
+			"app_package" : "com.example.example",
+			"logo_image_link" : "http... logo png 512/512"
+		},
+		{
+			"app_name" : "wasticker",
+			"app_package" : "com.example.example",
+			"logo_image_link" : "http... logo png 512/512"
+		}
+	]
+}
